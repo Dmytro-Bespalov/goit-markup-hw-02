@@ -20,7 +20,7 @@ body {
     font-family: raleway , sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1, 19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 
@@ -60,7 +60,7 @@ body {
 .contacts-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--secondary-text-color);
     text-decoration: none;
@@ -82,28 +82,26 @@ color: var(--accent-color);
 .hero {
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
 }
 
-.hero-button-text {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1,66;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
-    color: #FFFFFF;
-}
-
 .hero-button {
 background: var(--accent-color);
 cursor: pointer;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.66;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
 }
+
 
 /* ==============ПРЕИМУЩЕСТВА============ */
 
@@ -111,14 +109,14 @@ cursor: pointer;
 .benefits-title {
         font-weight: 700;
         font-size: 14px;
-        line-height: 1,14;
+        line-height: 1.14;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
 .benefits-text {
         font-size: 14px;
-        line-height: 1,71;
+        line-height: 1.71;
         letter-spacing: 0.03em;
         color: var(--secondary-text-color);
 }
@@ -129,7 +127,7 @@ cursor: pointer;
 .work-process-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -145,7 +143,7 @@ cursor: pointer;
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -154,14 +152,14 @@ cursor: pointer;
 .team-name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
 }
 
 .team-position {
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
@@ -181,7 +179,7 @@ cursor: pointer;
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 
@@ -198,8 +196,8 @@ cursor: pointer;
     text-decoration: none;
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
-    letter-spacing: 0,03;
+    line-height: 1.71;
+    letter-spacing: 0.03;
     color: #FFFFFF;
 }
 
@@ -215,9 +213,9 @@ cursor: pointer;
     text-decoration: none;
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
-    color: var(--secondary-text-color);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .adress-contacts:hover {
@@ -238,7 +236,7 @@ cursor: pointer;
     font-family: roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,62;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
@@ -264,13 +262,13 @@ cursor: pointer;
     color: var(--primary-text-color);
     font-weight: 700;
     font-size: 18px;
-    line-height: 0,2;
-    letter-spacing: 0,06em;
+    line-height: 0.2;
+    letter-spacing: 0.06em;
 }
 
 .portfolio-description {
     font-size: 16px;
-    line-height: 1,88;
+    line-height: 1.88;
     letter-spacing: 0.03em;
     color: var(--secondary-text-color);
 }
